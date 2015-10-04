@@ -1,4 +1,29 @@
 ﻿<!DOCTYPE html>
+
+@{ 
+
+    public class Carrera
+    {
+        private int id;
+        private String nombre;
+
+        Carrera(int pId, String pNombre)
+        {
+            id = pId;
+            nombre = pNombre;
+        }
+    }
+    int puntos;
+    int carrera;
+    int tipoSancion;
+    int tipoMovSancion;
+    int numCorredor;
+    String postIn;
+    String postBy;
+
+    List<Carrera> carreras = new List<Carrera>();
+}
+
 <html>
     <head>
         <title>Registro de Sanciones</title>
@@ -8,5 +33,9 @@
 
         <h3>Por favor ingrese los datos de la sanción que desea registrar a continuación: </h3>
         <h5>Puntos: <textarea></textarea></h5>
+        <h5>Carrera<select>
+        
+            </select>
+        </h5>
     </body>
 </html>
