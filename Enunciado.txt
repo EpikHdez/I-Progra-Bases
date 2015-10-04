@@ -1,0 +1,68 @@
+ITCR - Escuela de Ing. en Computación - Agosto 2015 - Prof fquiros
+
+Primera tarea programada
+
+ 
+
+1) Objetivos: Implementar una base de datos física, así como escribir el código en capa lógica y física para el mantenimiento de entidades y el procesamiento de datos.
+
+ 
+
+2) Descripción del problema. 
+
+ 
+
+Campeonato de atletismo.
+
+ 
+
+El modelo se usará para implementar la organización y captura de resultados de campeonatos de atletismo. Cada campeonato tiene una fecha de inicio y fin, un campeonato está conformado por muchas carreras atléticas, cada una tiene fecha de realización, hora de inicio, distancia, un recorrido (expresado en texto), un lugar de partida, un lugar de llegada y el costo de suscripción. En cada campeonato participan corredores, los cuales se suscriben por internet. Al suscribir por primera vez se obtiene: documento de identificación, nombre, fecha de nacimiento, género y email; se le pide que escoja una palabra clave. El participante puede ingresar al mismo sitio web donde se suscribió, ingresa con email y clave, y puede consultar el reporte de posiciones y sancionados que se explica más delante de las carreras en que ha participado .Al suscribirse, el sistema asignará al corredor un número único con el cual correrá todo el campeonato, que corresponde a un número impreso que el corredor pega a la camiseta. 
+Al final de la carrera,  se captura la posición en la que ingresa cada corredor. De esa manera es posible obtener los ganadores, segundo lugar, etc., para cada categoría. Esta captura, para efectos de pruebas de este proyecto, se hará mediante un archivo XML.
+También para cada carrera se capturan sanciones sobre corredores (puede ser el mismo XML indicado anteriormente), que pueden ser expulsión, o simplemente puntos de penalización que se acumulan durante el campeonato. Las sanciones se describen así: Tipo de falta (ej.: Mal Comportamiento, bloqueo de corredor, etc.) y los puntos de penalización. Si un corredor acumula más de 30 puntos, es expulsado del campeonato. 
+Para los primeras 20 posiciones en cada carrera, se asignan puntos, 20 para el ganador, 19 para el segundo, y así sucesivamente hasta entregar un punto al corredor de la posición 20, el resto de corredores tendrán 0 puntos. Esos puntos se acumulan, durante el campeonato, de tal manera que el corredor con mayor cantidad de puntos al final de campeonato es el campeón. Algunas veces hay apelaciones sobre el resultado de una carrera, de tal forma que los puntos asignados a un corredor puede ser que necesiten ajustes, esto es si llegó de quinto inicialmente se le entregaron 15 puntos, pero luego se descalificó la segunda posición, entonces el quinto original ahora es el cuarto, y debe recibir 16
+puntos en lugar de 15, igual tienen que ajustarse los puntos del resto de posiciones.
+Cada vez que termina una carrera, se lista para la prensa, un reporte de todos los corredores ordenados por orden descendente del puntos acumulado, se lista el nombre, los puntos acumulados, el tiempo acumulado, y los puntos acumulados de penalización, en este listado aparecerán los corredores activos que hayan corrido todas las carreras del campeonato. Luego una lista en orden alfabético de los corredores, nombre, tiempo acumulado y si el corredor está activo o expulsado, de los corredores expulsados o que no han corrido todas las carreras y una columna de comentario que indica: "expulsado por sanciones", "faltó a X carreras", donde X es la cantidad de carreras que el corredor ha faltado correr en el campeonato.
+
+ 
+
+3) Que se pide?.
+
+ 
+
+El código SQL de todos los procedimientos almacenados, para los siguientes fines:
+
++ Los SP de todas las actualizaciones (inserción, modificación y borrado de cada entidad), 
+
++ El SP que procesa los resultados de una carrera (la entrada es un archivo XML con la información de las posiciones y las sanciones), acumulando los puntos por posición para cada corredor, acumulando el tiempo, acumulando los puntos de sanción, y el cambio de estado de activo a expulsado.
+
++ El SP que lista el reporte de posiciones acumuladas al final de cada carrera
+
++ El SP que lista los corredores expulsados o que faltaron a carreras 
+
++ Los SP para cargar datos básicos (campeonatos, carreras, corredores, tipos de sanción, tipos de movimiento)
+
+ 
+
+El código en capa lógica para 
+
++ El mantenimiento de campeonatos y carreras en campeonato.
+
++ La suscripción de corredores a un campeonato (debe ser una página web)
+
++ La consulta de los corredores del reporte de posiciones y expulsados
+
++ El procesamiento del archivo XML de entrada que contiene la posiciones de llegada de cada corredor en una carrera y los corredores sancionados
+
+ 
+
+3) Datos de prueba
+
+Un grupo será el encargado de crear los datos de prueba, el cual consistirá en un XML de datos basicos con información de al menos un campeonato, con al menos 5 carreras, e información de suscripción de al menos 40 corredores).
+
+ 
+
+4) Reglas.
+
+Documentación: una bitácora escrita en un blog en el cual día a día, se indica la cantidad de horas trabajadas por el equipo de trabajo, se hace un relato de los avances,   acerca de los problemas encontrados, como fueron resueltos; dudas, divergencias de criterio,  forma en que trabajó el equipo de trabajo, problemas con la instalación del software, problemas de aprendizaje del framework,  investigaciones, pruebas de concepto, experiencias, moralejas, ayuda recibida, consejos a dar, buenas prácticas descubiertas, etc.; que describa el proceso de solución de la tarea programada; una descripción sincera y detallada será bien evaluada.  Incluya referencia externas a recursos utilizados en internet para solventar dudas o resolver problemas, puede incluir los mensajes de error y como fueron resueltos. La última entrada del blog es un resumen que indique la cantidad de horas total de trabajo, por persona, así como un análisis de resultados de los que se está entregado. Debe ser exhaustivo.
+
+Grupos de 2 personas. Motor de base de datos: MS SQL 2008 o 2012. Fecha de entrega: 6 de Octubre. 

@@ -29,6 +29,7 @@ Alias VARCHAR(50),
 Email VARCHAR(100),
 Genero VARCHAR(10),
 FechaNacimiento DATE,
+Activo BIT,
 PRIMARY KEY(ID)
 );
 GO
