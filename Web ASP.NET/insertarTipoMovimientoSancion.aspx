@@ -11,7 +11,7 @@
     <form id="form1" runat="server">
     <div>
 
-        <h3>Nombre: <textarea id="textoNombreTipoMovimientoSancion" name="textoNombreTipoMovimientoSancion" rows="1" cols="50"></textarea></h3>
+        <h3>Nombre: <textbox id="textoNombreTipoMovimientoSancion" name="textoNombreTipoMovimientoSancion" rows="1" cols="50"></textbox></h3>
     
     </div>
     </form>

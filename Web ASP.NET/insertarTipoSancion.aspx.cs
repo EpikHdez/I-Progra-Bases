@@ -15,7 +15,7 @@ public partial class insertarTipoSancion : System.Web.UI.Page
     protected void botonCrearTipoSancion_Click(object sender, EventArgs e)
     {
         string nombre = txtNombreTipoSancion.Text;
-        lblSancion.Text = nombre;       
+        lblSancion.Text = nombre;    
                
     }
 }

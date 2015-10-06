@@ -11,10 +11,9 @@
     <form id="form1" runat="server">
     <div>
 
-        <h5>Nombre: <textarea></textarea></h5>
-        <h5>Descripción: <textarea></textarea></h5>
-        <h5>Fecha: <textarea></textarea></h5>
-        <h5>Campeonato: <textarea></textarea></h5>
+        <h5>Nombre: <textbox></textbox></h5>
+        <h5>Descripción: <textabox></textabox></h5>
+        <h5>Fecha: <textbox></textbox></h5>
     
     </div>
     </form>
