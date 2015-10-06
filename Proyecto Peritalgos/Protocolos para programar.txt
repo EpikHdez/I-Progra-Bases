@@ -1,0 +1,12 @@
+Las variables globales deben de iniciar con: vg_
+Luego va el nombre.
+Ejemplo: vg_resultado
+
+
+
+Para la base de datos:
+Los nombres de las tablas deben de ser de un maximo de 10 caracteres (NO MÁS)
+Ejemplo: registresp (hace referencia al registro de respuestas)
+
+Los nombres de las columnas deben de ser de un maximo de 10 caracteres (NO MÁS) y deben iniciar con el tipo de dato
+Ejemplo: cnombralum (la c hace referencia al tipo char, y el resto hace referencia a nombre del alumno)

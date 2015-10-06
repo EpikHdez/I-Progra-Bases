@@ -1,0 +1,28 @@
+C:\Users\Ignacio\Desktop\ExamenWeb\ExamenWeb\bin\ExamenWeb.dll
+C:\Users\Ignacio\Desktop\ExamenWeb\ExamenWeb\bin\ExamenWeb.pdb
+C:\Users\Ignacio\Desktop\ExamenWeb\ExamenWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ignacio\Desktop\ExamenWeb\ExamenWeb\obj\Debug\ExamenWeb.dll
+C:\Users\Ignacio\Desktop\ExamenWeb\ExamenWeb\obj\Debug\ExamenWeb.pdb
+C:\Users\Ignacio\Desktop\ExamenWeb\ExamenWeb\bin\PreguntasLibrary.dll
+C:\Users\Ignacio\Desktop\ExamenWeb\ExamenWeb\bin\PreguntasLibrary.pdb
+C:\Users\Erick\Dropbox\Proyecto Peritalgos\ExamenWeb\ExamenWeb\bin\ExamenWeb.dll
+C:\Users\Erick\Dropbox\Proyecto Peritalgos\ExamenWeb\ExamenWeb\bin\ExamenWeb.pdb
+C:\Users\Erick\Dropbox\Proyecto Peritalgos\ExamenWeb\ExamenWeb\bin\PreguntasLibrary.dll
+C:\Users\Erick\Dropbox\Proyecto Peritalgos\ExamenWeb\ExamenWeb\bin\PreguntasLibrary.pdb
+C:\Users\Erick\Dropbox\Proyecto Peritalgos\ExamenWeb\ExamenWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Erick\Dropbox\Proyecto Peritalgos\ExamenWeb\ExamenWeb\obj\Debug\ExamenWeb.dll
+C:\Users\Erick\Dropbox\Proyecto Peritalgos\ExamenWeb\ExamenWeb\obj\Debug\ExamenWeb.pdb
+C:\Users\Erick\Dropbox\Proyecto Peritalgos\ExamenWeb\ExamenWeb\ExamenWeb\bin\ExamenWeb.dll
+C:\Users\Erick\Dropbox\Proyecto Peritalgos\ExamenWeb\ExamenWeb\ExamenWeb\bin\ExamenWeb.pdb
+C:\Users\Erick\Dropbox\Proyecto Peritalgos\ExamenWeb\ExamenWeb\ExamenWeb\bin\PreguntasLibrary.dll
+C:\Users\Erick\Dropbox\Proyecto Peritalgos\ExamenWeb\ExamenWeb\ExamenWeb\bin\PreguntasLibrary.pdb
+C:\Users\Erick\Dropbox\Proyecto Peritalgos\ExamenWeb\ExamenWeb\ExamenWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Erick\Dropbox\Proyecto Peritalgos\ExamenWeb\ExamenWeb\ExamenWeb\obj\Debug\ExamenWeb.dll
+C:\Users\Erick\Dropbox\Proyecto Peritalgos\ExamenWeb\ExamenWeb\ExamenWeb\obj\Debug\ExamenWeb.pdb
+C:\AppServ\www\Dropbox\Proyecto Peritazgos\ExamenWeb\ExamenWeb\ExamenWeb\bin\ExamenWeb.dll
+C:\AppServ\www\Dropbox\Proyecto Peritazgos\ExamenWeb\ExamenWeb\ExamenWeb\bin\ExamenWeb.pdb
+C:\AppServ\www\Dropbox\Proyecto Peritazgos\ExamenWeb\ExamenWeb\ExamenWeb\bin\PreguntasLibrary.dll
+C:\AppServ\www\Dropbox\Proyecto Peritazgos\ExamenWeb\ExamenWeb\ExamenWeb\bin\PreguntasLibrary.pdb
+C:\AppServ\www\Dropbox\Proyecto Peritazgos\ExamenWeb\ExamenWeb\ExamenWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\AppServ\www\Dropbox\Proyecto Peritazgos\ExamenWeb\ExamenWeb\ExamenWeb\obj\Debug\ExamenWeb.dll
+C:\AppServ\www\Dropbox\Proyecto Peritazgos\ExamenWeb\ExamenWeb\ExamenWeb\obj\Debug\ExamenWeb.pdb

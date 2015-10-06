@@ -1,0 +1,525 @@
+<?xml version="1.0"?>
+
+<Campeonato Nombre="Ana Cristina Ross" FechaInicio="5-9-2015" FechaFin="6-10-2015">
+
+	<Corredores>
+
+	<Participante Nombre="Jose Enrique Alvarado Chaves" Identificacion="207190500" FechaNacimiento="26-11-1993" Genero="Masculino" Email="JoseEnriqueAlvarado92@gmail.com" SobreNombre="Lykantro" ID="1"/>
+
+	<Participante Nombre="Kevin Mendez Arce" Identificacion="1015320056" FechaNacimiento="28-03-1993" Genero="Masculino" Email="KevinManAr@gmail.com" SobreNombre="Znaider" ID="2"/>
+
+	<Participante Nombre="Fernando Ugarte" Identificacion="305680395" FechaNacimiento="15-07-1990" Genero="Masculino" Email="Ugartex@yahoo.com" SobreNombre="Shoripan" ID="3"/>
+
+	<Participante Nombre="David Rodriguez Araya" Identificacion="203790851" FechaNacimiento="02-04-1993" Genero="Masculino" Email="Davidsin@hotmail.com" SobreNombre="Cromo" ID="4"/>
+
+	<Participante Nombre="Alex Castilla Lara" Identificacion="408340671" FechaNacimiento="29-06-1995" Genero="Masculino" Email="UfoLex@hotmail.com" SobreNombre="Bruno" ID="5"/>
+
+	<Participante Nombre="Leonardo Andres Pena Chavarria" Identificacion="703470937" FechaNacimiento="05-31-1997" Genero="Masculino" Email="LeonCha@hotmail.es" SobreNombre="Unfait" ID="6"/>
+
+	<Participante Nombre="Jose Angel Alvarado Monestell" Identificacion="604820958" FechaNacimiento="19-08-1995" Genero="Masculino" Email="hurtado@gmail.com" SobreNombre="Hurtado" ID="7"/>
+
+	<Participante Nombre="Lizeth Solorzano Corella" Identificacion="509520893" FechaNacimiento="22-01-1994" Genero="Femenino" Email="LizSoloCo@gmail.com" SobreNombre="Lindsan" ID="8"/>
+
+	<Participante Nombre="Johana Elizondo Rivera" Identificacion="309860201" FechaNacimiento="13-02-1996" Genero="Femenino" Email="Joheli@gmail.com" SobreNombre="Joha" ID="9"/>
+
+	<Participante Nombre="Jose Adrian Perez Castro" Identificacion="602340001" FechaNacimiento="30-10-1990" Genero="Masculino" Email="JoAdristro@gmail.com" SobreNombre="Jodrafe" ID="10"/>
+
+	<Participante Nombre="Karla Sandi Orozco Gonzales" Identificacion="36820704" FechaNacimiento="24-12-1986" Genero="Femenino" Email="SanDriRozCa@gmail.com" SobreNombre="Sandri" ID="11"/>
+
+	<Participante Nombre="Gabriela Garro Ledezma" Identificacion="506890021" FechaNacimiento="04-04-1991" Genero="Femenino" Email="GabiGabo@gmail.com" SobreNombre="Gaby" ID="12"/>
+
+	<Participante Nombre="Asdrubal Carbajal Espinoza" Identificacion="403040758" FechaNacimiento="01-09-1993" Genero="Masculino" Email="Samdrubal@hotmail.com" SobreNombre="Quepos" ID="13"/>
+
+	<Participante Nombre="German Sumoza Vives" Identificacion="101580395" FechaNacimiento="07-04-1978" Genero="Masculino" Email="Germanchelo@gmail.com" SobreNombre="Taramar" ID="14"/>
+
+	<Participante Nombre="Natalia Mora Morales" Identificacion="204820325" FechaNacimiento="29-08-1983" Genero="Femenino" Email="NatiCha@gmail.com" SobreNombre="Nati" ID="15"/>
+
+	<Participante Nombre="Ricardo Chaves Mora" Identificacion="101020946" FechaNacimiento="05-12-1995" Genero="Masculino" Email="MPromiser@gmail.com" SobreNombre="Promi" ID="16"/>
+
+	<Participante Nombre="Jose Castro Ramirez" Identificacion="608820222" FechaNacimiento="17-11-1973" Genero="Masculino" Email="ChepeCastro@gmail.com" SobreNombre="Chepe" ID="17"/>
+
+	<Participante Nombre="Silvia Mata Jara" Identificacion="302250365" FechaNacimiento="18-10-1993" Genero="Femenino" Email="SilviSil@gmail.com" SobreNombre="Sil" ID="18"/>
+
+	<Participante Nombre="Laura Santini Rivera" Identificacion="402280174" FechaNacimiento="21-05-1990" Genero="Femenino" Email="louSantini@gmail.com" SobreNombre="Lou" ID="19"/>
+
+	<Participante Nombre="Marin Valverde Vega" Identificacion="609950268" FechaNacimiento="02-07-1997" Genero="Masculino" Email="Marverde8@gmail.com" SobreNombre="Wanaco" ID="20"/>
+
+	<Participante Nombre="Luis Gabriel Mendez Arguello" Identificacion="202290995" FechaNacimiento="15-05-1993" Genero="Masculino" Email="Torolope8@yahoo.com" SobreNombre="Flaco" ID="21"/>
+
+	<Participante Nombre="Aaron Toruno Umana" Identificacion="504680724" FechaNacimiento="13-03-1993" Genero="Masculino" Email="AarinAaron@hotmail.com" SobreNombre="Umana" ID="22"/>
+
+	<Participante Nombre="Stefany Mora Zuniga" Identificacion="10558146" FechaNacimiento="10-03-1993" Genero="Femenino" Email="StefMora12@gmail.com" SobreNombre="Stef" ID="23"/>
+
+	<Participante Nombre="Ana Belen Acuna Leiva" Identificacion="706230111" FechaNacimiento="24-10-1993" Genero="Femenino" Email="AnaBelenBelen@gmail.com" SobreNombre="Any" ID="24"/>
+
+	<Participante Nombre="Karen Brenes Campos" Identificacion="304410682" FechaNacimiento="07-09-1982" Genero="Femenino" Email="PoliBres14@gmail.com" SobreNombre="Karen" ID="25"/>
+
+	<Participante Nombre="Tony Valverde Mata" Identificacion="502890114" FechaNacimiento="30-03-1988" Genero="Masculino" Email="Tomata52@gmail.com" SobreNombre="Tigre" ID="26"/>
+
+	<Participante Nombre="Farlen Hernan Villalobos" Identificacion="303330525" FechaNacimiento="22-08-1991" Genero="Masculino" Email="FVillalobos@gmail.com" SobreNombre="Piedra" ID="27"/>
+
+	<Participante Nombre="Daniel Rojas Soto" Identificacion="408850375" FechaNacimiento="24-12-1995" Genero="Masculino" Email="DaniRojaas@gmail.com" SobreNombre="Dani" ID="28"/>
+
+	<Participante Nombre="Randall Blanco Garcia" Identificacion="20533404" FechaNacimiento="06-05-1992" Genero="Masculino" Email="Azaroth28@hotmail.es" SobreNombre="Randi" ID="29"/>
+
+	<Participante Nombre="Flander Zamora Morales" Identificacion="309850274" FechaNacimiento="17-08-1991" Genero="Masculino" Email="Flanderino7@gmail.com" SobreNombre="Flaco" ID="30"/>
+
+	<Participante Nombre="Katerina Sobalbarro Blum" Identificacion="701850364" FechaNacimiento="29-12-1978" Genero="Femenino" Email="katerianino@gmail.com" SobreNombre="Katy" ID="31"/>
+
+	<Participante Nombre="Victor Arce Quiros" Identificacion="201150326" FechaNacimiento="27-04-1967" Genero="Masculino" Email="VictorArce25@gmail.com" SobreNombre="Vi" ID="32"/>
+
+	<Participante Nombre="Geovanny Arce Quiros" Identificacion="203660804" FechaNacimiento="06-12-1974" Genero="Masculino" Email="GeoGeovanny@gmail.com" SobreNombre="Geo" ID="33"/>
+
+	<Participante Nombre="Diego Zamora Arce" Identificacion="102650934" FechaNacimiento="07-11-1989" Genero="Masculino" Email="DiegoZamora89@gmail.com" SobreNombre="Diego" ID="34"/>
+
+	<Participante Nombre="Roberto Gonzales Benavides" Identificacion="105460227" FechaNacimiento="29-06-1996" Genero="Masculino" Email="Mitologia23@gmail.com" SobreNombre="Klain" ID="35"/>
+
+	<Participante Nombre="Olger Mendez Rivera" Identificacion="301240956" FechaNacimiento="25-05-1984" Genero="Masculino" Email="OlgiVera@gmail.com" SobreNombre="Olger" ID="36"/>
+
+	<Participante Nombre="Evar Sevilla Lopez" Identificacion="409580147" FechaNacimiento="17-04-1994" Genero="Femenino" Email="EvarSevilla94@gmail.com" SobreNombre="Evar" ID="37"/>
+
+	<Participante Nombre="Diousa Soto Aguilar" Identificacion="106680386" FechaNacimiento="22-05-1993" Genero="Femenino" Email="DiousitaSoto@gmail.com" SobreNombre="Diou" ID="38"/>
+
+	<Participante Nombre="Maciel Navarro Perez" Identificacion="208870624" FechaNacimiento="14-07-1993" Genero="Femenino" Email="Flyciel78@gmail.com" SobreNombre="Maci" ID="39"/>
+
+	<Participante Nombre="Maria Casandra Fernandez Paniagua" Identificacion="104450785" FechaNacimiento="30-09-1990" Genero="Femenino" Email="Paniaguamaria14@gmail.com" SobreNombre="Cassandra" ID="40"/>
+
+	</Corredores>
+
+	<Carreras>
+
+	<Etapa Fecha="15-6-2015" Hora="07:30:00" Recorrido="5.8" Descripcion="Vuelta al Cerro Espiritu Santo" LugarPartida="Coffer Tour" LugarLlegada="San Antonio" Costo="5000">
+
+	<Posicion Corredor="17" Lugar="1" Tiempo="00:50:31"/>
+
+	<Posicion Corredor="40" Lugar="2" Tiempo="00:50:49"/>
+
+	<Posicion Corredor="31" Lugar="3" Tiempo="00:51:03"/>
+
+	<Posicion Corredor="37" Lugar="4" Tiempo="00:52:43"/>
+
+	<Posicion Corredor="39" Lugar="5" Tiempo="00:54:27"/>
+
+	<Posicion Corredor="8" Lugar="6" Tiempo="00:54:40"/>
+
+	<Posicion Corredor="1" Lugar="7" Tiempo="00:54:56"/>
+
+	<Posicion Corredor="12" Lugar="8" Tiempo="00:55:11"/>
+
+	<Posicion Corredor="11" Lugar="9" Tiempo="00:55:24"/>
+
+	<Posicion Corredor="15" Lugar="10" Tiempo="00:55:29"/>
+
+	<Posicion Corredor="13" Lugar="11" Tiempo="00:55:29"/>
+
+	<Posicion Corredor="10" Lugar="12" Tiempo="00:55:38"/>
+
+	<Posicion Corredor="19" Lugar="13" Tiempo="00:55:46"/>
+
+	<Posicion Corredor="3" Lugar="14" Tiempo="00:55:55"/>
+
+	<Posicion Corredor="16" Lugar="15" Tiempo="00:56:07"/>
+
+	<Posicion Corredor="20" Lugar="16" Tiempo="00:56:23"/>
+
+	<Posicion Corredor="29" Lugar="17" Tiempo="00:56:37"/>
+
+	<Posicion Corredor="9" Lugar="18" Tiempo="00:56:59"/>
+
+	<Posicion Corredor="34" Lugar="19" Tiempo="00:57:15"/>
+
+	<Posicion Corredor="25" Lugar="20" Tiempo="00:57:41"/>
+
+	<Posicion Corredor="18" Lugar="21" Tiempo="00:58:00"/>
+
+	<Posicion Corredor="5" Lugar="22" Tiempo="00:58:29"/>
+
+	<Posicion Corredor="2" Lugar="23" Tiempo="00:58:58"/>
+
+	<Posicion Corredor="38" Lugar="24" Tiempo="00:58:58"/>
+
+	<Posicion Corredor="22" Lugar="25" Tiempo="00:59:09"/>
+
+	<Posicion Corredor="35" Lugar="26" Tiempo="01:00:44"/>
+
+	<Posicion Corredor="26" Lugar="27" Tiempo="01:01:44"/>
+
+	<Posicion Corredor="30" Lugar="28" Tiempo="01:02:01"/>
+
+	<Posicion Corredor="21" Lugar="29" Tiempo="01:04:21"/>
+
+	<Posicion Corredor="7" Lugar="30" Tiempo="01:05:27"/>
+
+	<Posicion Corredor="36" Lugar="31" Tiempo="01:05:55"/>
+
+	<Posicion Corredor="4" Lugar="32" Tiempo="01:07:05"/>
+
+	<Posicion Corredor="23" Lugar="33" Tiempo="01:10:39"/>
+
+	<Posicion Corredor="6" Lugar="34" Tiempo="01:10:39"/>
+
+	<Posicion Corredor="24" Lugar="35" Tiempo="01:11:45"/>
+
+	<Posicion Corredor="32" Lugar="36" Tiempo="01:13:59"/>
+
+	<Posicion Corredor="27" Lugar="37" Tiempo="01:15:36"/>
+
+	<Posicion Corredor="28" Lugar="38" Tiempo="01:15:46"/>
+
+	<Posicion Corredor="33" Lugar="39" Tiempo="01:20:14"/>
+
+	<Sanciones>
+		<Sancionado Corredor="33" Puntos="5" Descripcion="Mal Comportamiento"/>
+		<Sancionado Corredor="7" Puntos="1" Descripcion="Bloqueo de corredor"/>
+	</Sanciones>
+
+	</Etapa>
+
+	<Etapa Fecha="3-7-2015" Hora="08:00:00" Recorrido="9" Descripcion="Recorrido por San Juan y San Jose de Naranjo" LugarPartida="Parque De Naranjo" LugarLlegada="La Llanada" Costo="2000">
+
+	<Posicion Corredor="5" Lugar="1" Tiempo="00:31:52"/>
+
+	<Posicion Corredor="39" Lugar="2" Tiempo="00:31:55"/>
+
+	<Posicion Corredor="16" Lugar="3" Tiempo="00:32:02"/>
+
+	<Posicion Corredor="38" Lugar="4" Tiempo="00:32:55"/>
+
+	<Posicion Corredor="22" Lugar="5" Tiempo="00:33:59"/>
+
+	<Posicion Corredor="28" Lugar="6" Tiempo="00:34:03"/>
+
+	<Posicion Corredor="4" Lugar="7" Tiempo="00:34:10"/>
+
+	<Posicion Corredor="30" Lugar="8" Tiempo="00:34:20"/>
+
+	<Posicion Corredor="7" Lugar="9" Tiempo="00:34:24"/>
+
+	<Posicion Corredor="34" Lugar="10" Tiempo="00:34:35"/>
+
+	<Posicion Corredor="12" Lugar="11" Tiempo="00:34:45"/>
+
+	<Posicion Corredor="14" Lugar="12" Tiempo="00:34:50"/>
+
+	<Posicion Corredor="25" Lugar="13" Tiempo="00:34:59"/>
+
+	<Posicion Corredor="36" Lugar="14" Tiempo="00:36:05"/>
+
+	<Posicion Corredor="37" Lugar="15" Tiempo="00:36:59"/>
+
+	<Posicion Corredor="31" Lugar="16" Tiempo="00:37:03"/>
+
+	<Posicion Corredor="35" Lugar="17" Tiempo="00:37:14"/>
+
+	<Posicion Corredor="27" Lugar="18" Tiempo="00:37:39"/>
+
+	<Posicion Corredor="13" Lugar="19" Tiempo="00:37:42"/>
+
+	<Posicion Corredor="40" Lugar="20" Tiempo="00:37:50"/>
+
+	<Posicion Corredor="23" Lugar="21" Tiempo="00:37:55"/>
+
+	<Posicion Corredor="26" Lugar="22" Tiempo="00:38:20"/>
+
+	<Posicion Corredor="2" Lugar="23" Tiempo="00:38:24"/>
+
+	<Posicion Corredor="10" Lugar="25" Tiempo="00:38:31"/>
+
+	<Posicion Corredor="8" Lugar="24" Tiempo= "00:38:45"/>
+
+	<Posicion Corredor="11" Lugar="25" Tiempo="00:38:55"/>
+
+	<Posicion Corredor="15" Lugar="26" Tiempo="00:38:59"/>
+
+	<Posicion Corredor="18" Lugar="27" Tiempo="00:39:11"/>
+
+	<Posicion Corredor="1" Lugar="28" Tiempo="00:39:17"/>
+
+	<Posicion Corredor="3" Lugar="29" Tiempo="00:39:23"/>
+
+	<Posicion Corredor="29" Lugar="30" Tiempo="00:39:29"/>
+
+	<Posicion Corredor="33" Lugar="31" Tiempo="00:39:36"/>
+
+	<Posicion Corredor="9" Lugar="32" Tiempo="00:39:43"/>
+
+	<Posicion Corredor="17" Lugar="33" Tiempo="00:39:47"/>
+
+	<Posicion Corredor="24" Lugar="34" Tiempo="00:40:14"/>
+
+	<Posicion Corredor="32" Lugar="35" Tiempo="00:40:19"/>
+
+	<Posicion Corredor="6" Lugar="36" Tiempo="00:40:25"/>
+
+	<Posicion Corredor="19" Lugar="37" Tiempo="00:40:37"/>
+
+	<Posicion Corredor="21" Lugar="38" Tiempo="00:41:08"/>
+
+	<Sanciones>
+		<Sancionado Corredor="33" Puntos="15" Descripcion="Mal Comportamiento"/>
+		<Sancionado Corredor="34" Puntos="1" Descripcion="Bloqueo de corredor"/>
+		<Sancionado Corredor="27" Puntos="29" Descripcion="Lenguaje ofensivo"/>
+	</Sanciones>
+
+	</Etapa>
+
+	<Etapa Fecha="11-7-2015" Hora="07:00:00" Recorrido="5" Descripcion="Recorrido de Concepcion de San Ramon hasta el hospital de San Ramon, por San Isidro" LugarPartida="Concepcion" LugarLlegada="Hospital de San Ramon" Costo="1000">
+
+	<Posicion Corredor="24" Lugar="1" Tiempo="00:20:25"/>
+
+	<Posicion Corredor="27" Lugar="2" Tiempo="00:20:32"/>
+
+	<Posicion Corredor="11" Lugar="3" Tiempo="00:20:39"/>
+
+	<Posicion Corredor="33" Lugar="4" Tiempo="00:20:43"/>
+
+	<Posicion Corredor="15" Lugar="5" Tiempo="00:20:44"/>
+
+	<Posicion Corredor="28" Lugar="6" Tiempo="00:20:51"/>
+
+	<Posicion Corredor="14" Lugar="7" Tiempo="00:20:57"/>
+
+	<Posicion Corredor="2" Lugar="8" Tiempo="00:20:58"/>
+
+	<Posicion Corredor="36" Lugar="9" Tiempo="00:20:59"/>
+
+	<Posicion Corredor="4" Lugar="10" Tiempo="00:21:50"/>
+
+	<Posicion Corredor="8" Lugar="11" Tiempo="00:21:58"/>
+
+	<Posicion Corredor="7" Lugar="12" Tiempo="00:22:13"/>
+
+	<Posicion Corredor="6" Lugar="13" Tiempo="00:22:17"/>
+
+	<Posicion Corredor="21" Lugar="14" Tiempo="00:22:28"/>
+
+	<Posicion Corredor="20" Lugar="15" Tiempo="00:22:30"/>
+
+	<Posicion Corredor="35" Lugar="16" Tiempo="00:22:34"/>
+
+	<Posicion Corredor="19" Lugar="17" Tiempo="00:22:39"/>
+
+	<Posicion Corredor="5" Lugar="18" Tiempo="00:22:47"/> 
+
+	<Posicion Corredor="31" Lugar="19" Tiempo="00:22:59"/>
+
+	<Posicion Corredor="16" Lugar="20" Tiempo="00:23:03"/>
+
+	<Posicion Corredor="18" Lugar="21" Tiempo="00:23:07"/>
+
+	<Posicion Corredor="32" Lugar="22" Tiempo="00:23:28"/>
+
+	<Posicion Corredor="10" Lugar="23" Tiempo="00:23:37"/>
+
+	<Posicion Corredor="13" Lugar="24" Tiempo="00:23:42"/>
+
+	<Posicion Corredor="17" Lugar="25" Tiempo="00:23:55"/>
+
+	<Posicion Corredor="26" Lugar="26" Tiempo="00:24:18"/>
+
+	<Posicion Corredor="25" Lugar="27" Tiempo="00:24:36"/>
+
+	<Posicion Corredor="22" Lugar="28" Tiempo="00:24:47"/>
+
+	<Posicion Corredor="37" Lugar="29" Tiempo="00:24:55"/>
+
+	<Posicion Corredor="3" Lugar="30" Tiempo="00:25:07"/>
+
+	<Posicion Corredor="23" Lugar="31" Tiempo="00:25:11"/>
+
+	<Posicion Corredor="40" Lugar="32" Tiempo="00:25:13"/>
+
+	<Posicion Corredor="38" Lugar="33" Tiempo="00:25:24"/>
+
+	<Posicion Corredor="12" Lugar="34" Tiempo="00:25:42"/>
+
+	<Posicion Corredor="9" Lugar="35" Tiempo="00:25:47"/>
+
+	<Posicion Corredor="29" Lugar="36" Tiempo="00:25:59"/>
+
+	<Posicion Corredor="1" Lugar="37" Tiempo="00:26:04"/>
+
+	<Posicion Corredor="34" Lugar="38" Tiempo="00:28:33"/>
+
+	<Posicion Corredor="30" Lugar="39" Tiempo="00:28:49"/>
+
+	<Sanciones>
+	</Sanciones>
+
+	</Etapa>
+
+	<Etapa Fecha="23-7-2015" Hora="09:00:00" Recorrido="7" Descripcion="Recorrido de ida y vuelta desde el hospital de San Ramon hasta San Isidro del mismo canton" LugarPartida="Hospital de San Ramon" LugarLlegada="Hospital de San Ramon" Costo="1000">
+
+	<Posicion Corredor="10" Lugar="1" Tiempo="00:15:55"/>
+
+	<Posicion Corredor="21" Lugar="2" Tiempo="00:16:16"/>
+
+	<Posicion Corredor="27" Lugar="3" Tiempo="00:16:28"/>
+
+	<Posicion Corredor="40" Lugar="4" Tiempo="00:16:45"/>
+
+	<Posicion Corredor="6" Lugar="5" Tiempo="00:17:55"/>
+
+	<Posicion Corredor="22" Lugar="6" Tiempo="00:18:13"/>
+
+	<Posicion Corredor="7" Lugar="7" Tiempo="00:18:25"/>
+
+	<Posicion Corredor="1" Lugar="8" Tiempo="00:18:36"/>
+
+	<Posicion Corredor="15" Lugar="9" Tiempo="00:18:45"/>
+
+	<Posicion Corredor="19" Lugar="10" Tiempo="00:18:57"/>
+
+	<Posicion Corredor="4" Lugar="11" Tiempo="00:19:17"/>
+
+	<Posicion Corredor="12" Lugar="12" Tiempo="00:19:23"/>
+
+	<Posicion Corredor="17" Lugar="13" Tiempo="00:19:37"/>
+
+	<Posicion Corredor="23" Lugar="14" Tiempo="00:19:49"/>
+
+	<Posicion Corredor="37" Lugar="15" Tiempo="00:19:53"/>
+
+	<Posicion Corredor="35" Lugar="16" Tiempo="00:20:13"/>
+
+	<Posicion Corredor="18" Lugar="17" Tiempo="00:20:19"/>
+
+	<Posicion Corredor="24" Lugar="18" Tiempo="00:21:20"/>
+
+	<Posicion Corredor="5" Lugar="19" Tiempo="00:21:27"/>
+
+	<Posicion Corredor="30" Lugar="20" Tiempo="00:21:35"/>
+
+	<Posicion Corredor="31" Lugar="21" Tiempo="00:21:41"/>
+
+	<Posicion Corredor="13" Lugar="22" Tiempo="00:21:57"/>
+
+	<Posicion Corredor="3" Lugar="23" Tiempo="00:22:04"/>
+
+	<Posicion Corredor="9" Lugar="24" Tiempo="00:22:09"/>
+
+	<Posicion Corredor="33" Lugar="25" Tiempo="00:22:18"/>
+
+	<Posicion Corredor="8" Lugar="26" Tiempo="00:22:29"/>
+
+	<Posicion Corredor="26" Lugar="27" Tiempo="00:22:37"/>
+
+	<Posicion Corredor="29" Lugar="28" Tiempo="00:22:45"/>
+
+	<Posicion Corredor="34" Lugar="29" Tiempo="00:23:17"/>
+
+	<Posicion Corredor="16" Lugar="30" Tiempo="00:23:29"/>
+
+	<Posicion Corredor="32" Lugar="31" Tiempo="00:23:45"/>
+
+	<Posicion Corredor="39" Lugar="32" Tiempo="00:24:01"/>
+
+	<Posicion Corredor="25" Lugar="33" Tiempo="00:25:59"/>
+
+	<Posicion Corredor="20" Lugar="34" Tiempo="00:26:13"/>
+
+	<Posicion Corredor="36" Lugar="35" Tiempo="00:26:19"/>
+
+	<Posicion Corredor="11" Lugar="36" Tiempo="00:26:59"/>
+
+	<Posicion Corredor="38" Lugar="37" Tiempo="00:27:43"/>
+
+	<Posicion Corredor="28" Lugar="38" Tiempo="00:27:48"/>
+
+	<Posicion Corredor="2" Lugar="39" Tiempo="00:28:11"/>
+
+	<Posicion Corredor="14" Lugar="40" Tiempo="00:29:29"/>
+
+	<Sanciones>
+		<Sancionado Corredor="16" Puntos="7" Descripcion="Actitud no deportiva"/>
+		<Sancionado Corredor="15" Puntos="30" Descripcion="Agresion"/>
+	</Sanciones>
+
+	</Etapa>
+
+	<Etapa Fecha="2-8-2015" Hora="08:30:00" Recorrido="10" Descripcion="Recorrido de ida y vuelta desde el hospital de San Ramon hasta San Pedro del mismo canton" LugarPartida="Hospital de San Ramon" LugarLlegada="Hospital de San Ramon" Costo="10000">
+
+	<Posicion1 Corredor="38" Lugar="1" Tiempo="00:29:29"/>
+
+	<Posicion2 Corredor="29" Lugar="2" Tiempo="00:29:32"/>
+
+	<Posicion3 Corredor="25" Lugar="3" Tiempo="00:29:48"/>
+
+	<Posicion4 Corredor="37" Lugar="4" Tiempo="00:29:58"/>
+
+	<Posicion5 Corredor="34" Lugar="5" Tiempo="00:30:24"/>
+
+	<Posicion6 Corredor="11" Lugar="6" Tiempo="00:30:48"/>
+
+	<Posicion7 Corredor="28" Lugar="7" Tiempo="00:30:49"/>
+
+	<Posicion8 Corredor="13" Lugar="8" Tiempo="00:31:04"/>
+
+	<Posicion9 Corredor="5" Lugar="9" Tiempo="00:31:22"/>
+
+	<Posicion10 Corredor="1" Lugar="10" Tiempo="00:31:44"/>
+
+	<Posicion11 Corredor="8" Lugar="11" Tiempo="00:31:58"/>
+
+	<Posicion12 Corredor="9" Lugar="12" Tiempo="00:32:11"/>
+
+	<Posicion13 Corredor="27" Lugar="13" Tiempo="00:32:20"/>
+
+	<Posicion14 Corredor="30" Lugar="14" Tiempo="00:32:38"/>
+
+	<Posicion15 Corredor="32" Lugar="15" Tiempo="00:32:55"/>
+
+	<Posicion16 Corredor="26" Lugar="16" Tiempo="00:33:01"/>
+
+	<Posicion17 Corredor="31" Lugar="17" Tiempo="00:33:14"/>
+
+	<Posicion18 Corredor="7" Lugar="18" Tiempo="00:33:16"/>
+
+	<Posicion19 Corredor="23" Lugar="19" Tiempo="00:33:27"/>
+
+	<Posicion20 Corredor="2" Lugar="20" Tiempo="00:33:29"/>
+
+	<Posicion21 Corredor="21" Lugar="21" Tiempo="00:33:47"/>
+
+	<Posicion22 Corredor="12" Lugar="22" Tiempo="00:33:52"/>
+
+	<Posicion23 Corredor="3" Lugar="23" Tiempo="00:34:18"/>
+
+	<Posicion24 Corredor="4" Lugar="24" Tiempo="00:34:29"/>
+
+	<Posicion25 Corredor="17" Lugar="25" Tiempo="00:35:01"/>
+
+	<Posicion26 Corredor="19" Lugar="26" Tiempo="00:35:14"/>
+
+	<Posicion27 Corredor="36" Lugar="27" Tiempo="00:35:22"/>
+
+	<Posicion28 Corredor="35" Lugar="28" Tiempo="00:35:35"/>
+
+	<Posicion29 Corredor="40" Lugar="29" Tiempo="00:35:14"/>
+
+	<Posicion30 Corredor="33" Lugar="30" Tiempo="00:35:49"/>
+
+	<Posicion31 Corredor="10" Lugar="31" Tiempo="00:36:02"/>
+
+	<Posicion32 Corredor="18" Lugar="32" Tiempo="00:36:09"/>
+
+	<Posicion33 Corredor="6" Lugar="33" Tiempo="00:36:14"/>
+
+	<Posicion34 Corredor="20" Lugar="34" Tiempo="00:36:46"/>
+
+	<Posicion35 Corredor="24" Lugar="35" Tiempo="00:36:51"/>
+
+	<Posicion36 Corredor="22" Lugar="36" Tiempo="00:37:08"/>
+
+	<Posicion40 Corredor="15" Lugar="37" Tiempo="00:40:00"/>
+
+	<Sanciones>
+		<Sancionado Corredor="33" Puntos="10" Descripcion="Actitud no deportiva"/>
+		<Sancionado Corredor="28" Puntos="30" Descripcion="Agresion"/>
+	</Sanciones>
+
+	</Etapa>
+
+	</Carreras>
+
+</Campeonato>

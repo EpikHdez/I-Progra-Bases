@@ -1,0 +1,2 @@
+insert into pregunta1 (cidpregun1, copcion1, copcion2, copcion3,copcion4,cpreguntas, crespuecor)
+values ('1', 'Circuitos Integrados.', 'Microprocesadores.', 'Tubos Al Vacío.', 'Transistores.', 'La tecnología utilizada en la primera generación de computadoras fue', 'Tubos Al Vacío.')

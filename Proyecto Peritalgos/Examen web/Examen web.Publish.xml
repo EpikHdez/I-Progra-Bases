@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\Erick\Desktop\Examen Web 2" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="www.examenweb.com" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="True" profileName="Perfil1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Páginas/Exam 14.aspx" publishTime="05/24/2012 14:37:21" />
+    <file relUrl="Default.aspx" publishTime="06/27/2012 13:27:59" />
+    <file relUrl="ImagenesDePreguntas/55.jpg" publishTime="05/29/2012 23:08:39" />
+    <file relUrl="ImagenesDePreguntas/68.jpg" publishTime="05/29/2012 23:28:28" />
+    <file relUrl="ImagenesDePreguntas/20.jpg" publishTime="05/29/2012 22:37:59" />
+    <file relUrl="Páginas/Menú profesor.aspx" publishTime="05/25/2012 18:08:04" />
+    <file relUrl="ImagenesDePreguntas/75.jpg" publishTime="05/29/2012 23:39:41" />
+    <file relUrl="Páginas/Exam 7.aspx" publishTime="05/21/2012 21:01:41" />
+    <file relUrl="ImagenesDePreguntas/37.jpg" publishTime="05/29/2012 22:48:32" />
+    <file relUrl="ImagenesDePreguntas/60.jpg" publishTime="05/29/2012 23:18:33" />
+    <file relUrl="Páginas/Exam 3.aspx" publishTime="05/21/2012 20:56:09" />
+    <file relUrl="ImagenesDePreguntas/18.jpg" publishTime="05/29/2012 22:36:12" />
+    <file relUrl="Web.config" publishTime="06/27/2012 12:37:27" />
+    <file relUrl="ImagenesDePreguntas/38.jpg" publishTime="05/29/2012 22:49:13" />
+    <file relUrl="ImagenesDePreguntas/66.jpg" publishTime="05/29/2012 23:26:19" />
+    <file relUrl="Páginas/Exam 11.aspx" publishTime="05/26/2012 21:44:05" />
+    <file relUrl="ImagenesDePreguntas/58.jpg" publishTime="05/29/2012 23:17:50" />
+    <file relUrl="ImagenesDePreguntas/41.jpg" publishTime="05/29/2012 22:53:03" />
+    <file relUrl="ImagenesDePreguntas/52.jpg" publishTime="05/29/2012 23:06:15" />
+    <file relUrl="Páginas/Exam 2.aspx" publishTime="05/27/2012 12:56:49" />
+    <file relUrl="ImagenesDePreguntas/65.jpg" publishTime="05/29/2012 23:25:58" />
+    <file relUrl="Páginas/Calificar examen.aspx" publishTime="05/27/2012 22:47:37" />
+    <file relUrl="ImagenesDePreguntas/27.jpg" publishTime="05/29/2012 22:42:53" />
+    <file relUrl="ImagenesDePreguntas/50.jpg" publishTime="05/29/2012 23:03:48" />
+    <file relUrl="ImagenesDePreguntas/57.jpg" publishTime="05/29/2012 23:09:52" />
+    <file relUrl="ImagenesDePreguntas/74.jpg" publishTime="05/29/2012 23:38:58" />
+    <file relUrl="Páginas/Exam 5.aspx" publishTime="05/26/2012 21:43:45" />
+    <file relUrl="ImagenesDePreguntas/36.jpg" publishTime="05/29/2012 22:48:09" />
+    <file relUrl="ImagenesDePreguntas/24.jpg" publishTime="05/29/2012 22:39:34" />
+    <file relUrl="Páginas/Exam 1.aspx" publishTime="05/20/2012 16:40:16" />
+    <file relUrl="Páginas/Calificar prueba rapida.aspx" publishTime="05/20/2012 15:35:51" />
+    <file relUrl="ImagenesDePreguntas/16.jpg" publishTime="05/29/2012 22:35:00" />
+    <file relUrl="bin/Examen web.dll" publishTime="06/27/2012 13:47:37" />
+    <file relUrl="ImagenesDePreguntas/44.jpg" publishTime="05/29/2012 22:58:23" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="05/04/2012 15:33:43" />
+    <file relUrl="ImagenesDePreguntas/33.jpg" publishTime="05/29/2012 22:47:06" />
+    <file relUrl="ImagenesDePreguntas/64.jpg" publishTime="05/29/2012 23:24:37" />
+    <file relUrl="bin/Examen web.pdb" publishTime="06/27/2012 13:47:37" />
+    <file relUrl="ImagenesDePreguntas/15.jpg" publishTime="05/29/2012 22:34:29" />
+    <file relUrl="ImagenesDePreguntas/42.jpg" publishTime="05/29/2012 22:53:34" />
+    <file relUrl="ImagenesDePreguntas/43.jpg" publishTime="05/29/2012 22:56:26" />
+    <file relUrl="ImagenesDePreguntas/35.jpg" publishTime="05/29/2012 22:47:48" />
+    <file relUrl="ImagenesDePreguntas/49.jpg" publishTime="05/29/2012 23:03:13" />
+    <file relUrl="ImagenesDePreguntas/67.jpg" publishTime="05/29/2012 23:27:41" />
+    <file relUrl="Páginas/Exam 9.aspx" publishTime="05/24/2012 13:46:35" />
+    <file relUrl="Páginas/Exam 4.aspx" publishTime="05/21/2012 20:57:57" />
+    <file relUrl="Páginas/LogIn.aspx" publishTime="05/19/2012 16:49:19" />
+    <file relUrl="ImagenesDePreguntas/26.jpg" publishTime="05/29/2012 22:42:27" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="05/04/2012 15:33:43" />
+    <file relUrl="ImagenesDePreguntas/54.jpg" publishTime="05/29/2012 23:08:22" />
+    <file relUrl="Páginas/Administrador de preguntas.aspx" publishTime="05/30/2012 00:24:35" />
+    <file relUrl="ImagenesDePreguntas/25.jpg" publishTime="05/29/2012 22:42:03" />
+    <file relUrl="Páginas/Agregar nuevo usuario.aspx" publishTime="05/30/2012 00:03:21" />
+    <file relUrl="Páginas/Exam 6.aspx" publishTime="05/21/2012 21:00:12" />
+    <file relUrl="ImagenesDePreguntas/32.jpg" publishTime="05/29/2012 22:46:29" />
+    <file relUrl="ImagenesDePreguntas/23.jpg" publishTime="05/29/2012 22:39:06" />
+    <file relUrl="Páginas/Exam 12.aspx" publishTime="05/24/2012 13:57:50" />
+    <file relUrl="ImagenesDePreguntas/19.jpg" publishTime="05/29/2012 22:36:34" />
+    <file relUrl="ImagenesDePreguntas/17.jpg" publishTime="05/29/2012 22:35:35" />
+    <file relUrl="Páginas/Prueba rápida2.aspx" publishTime="05/20/2012 14:13:06" />
+    <file relUrl="ImagenesDePreguntas/72.jpg" publishTime="05/29/2012 23:37:03" />
+    <file relUrl="ImagenesDePreguntas/39.jpg" publishTime="05/29/2012 22:49:35" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="05/04/2012 15:33:43" />
+    <file relUrl="Páginas/Exam 10.aspx" publishTime="05/24/2012 13:51:41" />
+    <file relUrl="ImagenesDePreguntas/59.jpg" publishTime="05/29/2012 23:18:08" />
+    <file relUrl="Páginas/Exam 8.aspx" publishTime="05/21/2012 21:03:03" />
+    <file relUrl="Páginas/Menú estudiante.aspx" publishTime="05/27/2012 02:07:07" />
+    <file relUrl="ImagenesDePreguntas/47.jpg" publishTime="05/29/2012 23:01:24" />
+    <file relUrl="ImagenesDePreguntas/31.jpg" publishTime="05/29/2012 22:46:08" />
+    <file relUrl="ImagenesDePreguntas/34.jpg" publishTime="05/29/2012 22:47:30" />
+    <file relUrl="ImagenesDePreguntas/51.jpg" publishTime="05/29/2012 23:05:53" />
+    <file relUrl="ImagenesDePreguntas/46.jpg" publishTime="05/29/2012 23:01:02" />
+    <file relUrl="ImagenesDePreguntas/56.jpg" publishTime="05/29/2012 23:08:59" />
+    <file relUrl="ImagenesDePreguntas/71.jpg" publishTime="05/29/2012 23:33:59" />
+    <file relUrl="Páginas/Prueba rápida1.aspx" publishTime="05/20/2012 13:55:45" />
+    <file relUrl="ImagenesDePreguntas/40.jpg" publishTime="05/29/2012 22:50:37" />
+    <file relUrl="ImagenesDePreguntas/29.jpg" publishTime="05/29/2012 22:45:22" />
+    <file relUrl="Páginas/Exam 13.aspx" publishTime="05/24/2012 14:41:02" />
+    <file relUrl="ImagenesDePreguntas/22.jpg" publishTime="05/29/2012 22:38:43" />
+    <file relUrl="ImagenesDePreguntas/73.jpg" publishTime="05/29/2012 23:37:32" />
+    <file relUrl="Páginas/Registro estudiantes.aspx" publishTime="05/29/2012 22:30:46" />
+    <file relUrl="ImagenesDePreguntas/69.jpg" publishTime="05/29/2012 23:28:50" />
+    <file relUrl="ImagenesDePreguntas/21.jpg" publishTime="05/29/2012 22:38:23" />
+    <file relUrl="ImagenesDePreguntas/45.jpg" publishTime="05/29/2012 22:58:46" />
+    <file relUrl="ImagenesDePreguntas/53.jpg" publishTime="05/29/2012 23:08:05" />
+    <file relUrl="ImagenesDePreguntas/63.jpg" publishTime="05/29/2012 23:24:12" />
+    <file relUrl="ImagenesDePreguntas/14.jpg" publishTime="05/29/2012 22:33:54" />
+    <file relUrl="ImagenesDePreguntas/30.jpg" publishTime="05/29/2012 22:45:45" />
+    <file relUrl="ImagenesDePreguntas/61.jpg" publishTime="05/29/2012 23:18:50" />
+    <file relUrl="ImagenesDePreguntas/62.jpg" publishTime="05/29/2012 23:20:32" />
+    <file relUrl="ImagenesDePreguntas/28.jpg" publishTime="05/29/2012 22:44:57" />
+    <file relUrl="ImagenesDePreguntas/70.jpg" publishTime="05/29/2012 23:29:13" />
+    <file relUrl="Páginas/Exam 15.aspx" publishTime="05/24/2012 14:39:54" />
+    <file relUrl="ImagenesDePreguntas/48.jpg" publishTime="05/29/2012 23:02:49" />
+  </publishProfile>
+</publishData>

@@ -1,0 +1,53 @@
+c:\users\erick\documents\visual studio 2010\Projects\Examen web\bin\Examen web.dll
+c:\users\erick\documents\visual studio 2010\Projects\Examen web\bin\Examen web.pdb
+c:\users\erick\documents\visual studio 2010\Projects\Examen web\obj\Debug\ResolveAssemblyReference.cache
+c:\users\erick\documents\visual studio 2010\Projects\Examen web\obj\Debug\Examen_web.Properties.Resources.resources
+c:\users\erick\documents\visual studio 2010\Projects\Examen web\obj\Debug\GenerateResource-ResGen.read.1.tlog
+c:\users\erick\documents\visual studio 2010\Projects\Examen web\obj\Debug\GenerateResource-ResGen.write.1.tlog
+c:\users\erick\documents\visual studio 2010\Projects\Examen web\obj\Debug\Examen web.dll
+c:\users\erick\documents\visual studio 2010\Projects\Examen web\obj\Debug\Examen web.pdb
+C:\Users\Cubero\Dropbox\Proyecto Peritazgos\Examen web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cubero\Dropbox\Proyecto Peritazgos\Examen web\obj\Debug\Examen_web.Properties.Resources.resources
+C:\Users\Cubero\Dropbox\Proyecto Peritazgos\Examen web\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Cubero\Dropbox\Proyecto Peritazgos\Examen web\obj\Debug\ResGen.read.1.tlog
+C:\Users\Cubero\Dropbox\Proyecto Peritazgos\Examen web\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Cubero\Dropbox\Proyecto Peritazgos\Examen web\obj\Debug\ResGen.write.1.tlog
+C:\Users\Cubero\Dropbox\Proyecto Peritazgos\Examen web\obj\Debug\Examen web.dll
+C:\Users\Cubero\Dropbox\Proyecto Peritazgos\Examen web\obj\Debug\Examen web.pdb
+C:\Users\Cubero\Dropbox\Proyecto Peritazgos\Examen web\bin\Examen web.dll
+C:\Users\Cubero\Dropbox\Proyecto Peritazgos\Examen web\bin\Examen web.pdb
+C:\Users\Erick\Desktop\Examen web\bin\Examen web.dll
+C:\Users\Erick\Desktop\Examen web\bin\Examen web.pdb
+C:\Users\Erick\Desktop\Examen web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Erick\Desktop\Examen web\obj\Debug\Examen_web.Properties.Resources.resources
+C:\Users\Erick\Desktop\Examen web\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Erick\Desktop\Examen web\obj\Debug\ResGen.read.1.tlog
+C:\Users\Erick\Desktop\Examen web\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Erick\Desktop\Examen web\obj\Debug\ResGen.write.1.tlog
+C:\Users\Erick\Desktop\Examen web\obj\Debug\Examen web.dll
+C:\Users\Erick\Desktop\Examen web\obj\Debug\Examen web.pdb
+C:\Users\Cubero\Desktop\Examen web\bin\Examen web.dll
+C:\Users\Cubero\Desktop\Examen web\bin\Examen web.pdb
+C:\Users\Cubero\Desktop\Examen web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cubero\Desktop\Examen web\obj\Debug\Examen_web.Properties.Resources.resources
+C:\Users\Cubero\Desktop\Examen web\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Cubero\Desktop\Examen web\obj\Debug\ResGen.read.1.tlog
+C:\Users\Cubero\Desktop\Examen web\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Cubero\Desktop\Examen web\obj\Debug\ResGen.write.1.tlog
+C:\Users\Cubero\Desktop\Examen web\obj\Debug\Examen web.dll
+C:\Users\Cubero\Desktop\Examen web\obj\Debug\Examen web.pdb
+C:\Users\Erick\Dropbox\Proyecto Peritalgos\Examen web\obj\Debug\Examen_web.Properties.Resources.resources
+C:\Users\Erick\Dropbox\Proyecto Peritalgos\Examen web\obj\Debug\Examen web.dll
+C:\Users\Erick\Dropbox\Proyecto Peritalgos\Examen web\bin\Examen web.dll
+C:\Users\Erick\Dropbox\Proyecto Peritalgos\Examen web\bin\Examen web.pdb
+C:\Users\Erick\Dropbox\Proyecto Peritalgos\Examen web\obj\Debug\Examen web.pdb
+C:\Users\Cubero\Desktop\Proyecto Peritazgo\Examen web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cubero\Desktop\Proyecto Peritazgo\Examen web\obj\Debug\Examen_web.Properties.Resources.resources
+C:\Users\Cubero\Desktop\Proyecto Peritazgo\Examen web\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Cubero\Desktop\Proyecto Peritazgo\Examen web\obj\Debug\ResGen.read.1.tlog
+C:\Users\Cubero\Desktop\Proyecto Peritazgo\Examen web\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Cubero\Desktop\Proyecto Peritazgo\Examen web\obj\Debug\ResGen.write.1.tlog
+C:\Users\Cubero\Desktop\Proyecto Peritazgo\Examen web\obj\Debug\Examen web.dll
+C:\Users\Erick\Dropbox\Proyecto Peritalgos\Examen web\bin\Examen web.dll.config
+C:\Users\Erick\Dropbox\Proyecto Peritalgos\Examen web\obj\Debug\Examen web.csprojResolveAssemblyReference.cache
+C:\Users\Erick\Dropbox\Proyecto Peritalgos\Examen web\obj\Debug\Examen web.csproj.GenerateResource.Cache

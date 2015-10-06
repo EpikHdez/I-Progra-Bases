@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\Ignacio\Desktop\Exam" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="False" msdeployMarkAsApp="False" profileName="Perfil1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Pages/Inicio.aspx" publishTime="02/23/2012 09:26:58" />
+    <file relUrl="bin/PreguntasLibrary.pdb" publishTime="02/24/2012 07:42:25" />
+    <file relUrl="Global.asax" publishTime="02/22/2012 17:59:09" />
+    <file relUrl="Pages/ComprobacionPR.aspx" publishTime="02/24/2012 12:17:16" />
+    <file relUrl="Styles/Site.css" publishTime="02/25/2012 09:38:23" />
+    <file relUrl="Images/acceder.png" publishTime="02/23/2012 07:54:12" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="02/22/2012 17:59:09" />
+    <file relUrl="bin/ExamenWeb.dll" publishTime="03/02/2012 10:27:37" />
+    <file relUrl="Account/Web.config" publishTime="02/22/2012 17:59:09" />
+    <file relUrl="Account/Register.aspx" publishTime="02/22/2012 17:59:09" />
+    <file relUrl="Account/Login.aspx" publishTime="02/22/2012 17:59:09" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="02/22/2012 17:59:09" />
+    <file relUrl="Default.aspx" publishTime="02/23/2012 16:54:05" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="02/22/2012 17:59:09" />
+    <file relUrl="Styles/Reloj/jquery.countdown.css" publishTime="02/22/2012 21:00:01" />
+    <file relUrl="bin/ExamenWeb.pdb" publishTime="03/02/2012 10:27:37" />
+    <file relUrl="Images/login.png" publishTime="02/23/2012 07:54:55" />
+    <file relUrl="Scripts/Reloj/script.js" publishTime="02/22/2012 21:44:42" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="02/22/2012 17:59:08" />
+    <file relUrl="MasterPage/MainMasterPage.Master" publishTime="02/23/2012 19:23:05" />
+    <file relUrl="FreePages/Pagina1.aspx" publishTime="03/02/2012 07:43:12" />
+    <file relUrl="Web.config" publishTime="03/02/2012 13:20:11" />
+    <file relUrl="Pages/LogIn.aspx" publishTime="02/25/2012 09:38:23" />
+    <file relUrl="Pages/ComprobacionP.aspx" publishTime="02/23/2012 09:27:18" />
+    <file relUrl="Images/fondoazul.jpg" publishTime="02/23/2012 08:00:25" />
+    <file relUrl="bin/PreguntasLibrary.dll" publishTime="02/24/2012 07:42:25" />
+    <file relUrl="Scripts/Reloj/jquery.countdown.js" publishTime="02/22/2012 20:03:29" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="02/22/2012 17:59:09" />
+  </publishProfile>
+</publishData>

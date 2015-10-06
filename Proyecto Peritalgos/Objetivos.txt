@@ -1,0 +1,11 @@
+- 6 forms para las preguntas
+- 1 form de la nota
+- 1 form de presentación
+- 1 form de cuenta regresiva (se come un 2 o 3 minutos, fail)
+
+
+- Una variable?
+
+- Que mas?
+
+Se bota todo lo anterior procedo a hacerlo en web!

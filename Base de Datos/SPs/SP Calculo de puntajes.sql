@@ -1,0 +1,19 @@
+USE CampeonatosDB;
+GO
+
+CREATE PROCEDURE CASP_CalcularYTiempo
+AS
+BEGIN
+	BEGIN TRY
+		DECLARE @puntosASumar INT, @IDPosicion INT;
+		SET @puntosASumar = 20;
+
+
+	END TRY
+	BEGIN CATCH
+		IF @@TRANCOUNT > 0
+			ROLLBACK;
+
+		RETURN @@ERROR * -1;
+	END CATCH
+END

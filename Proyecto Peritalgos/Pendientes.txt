@@ -1,0 +1,12 @@
+-Preguntas.
+
+
+
+
+-Terminar la cuenta regresiva, para que cuando termine se cierren las preguntas.
+
+
+
+
+-Los resultados.
+

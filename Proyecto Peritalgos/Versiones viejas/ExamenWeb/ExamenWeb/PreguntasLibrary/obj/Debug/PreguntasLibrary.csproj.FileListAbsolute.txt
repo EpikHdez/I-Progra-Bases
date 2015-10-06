@@ -1,0 +1,20 @@
+C:\Users\Ignacio\Desktop\ExamenWeb\PreguntasLibrary\bin\Debug\PreguntasLibrary.dll
+C:\Users\Ignacio\Desktop\ExamenWeb\PreguntasLibrary\bin\Debug\PreguntasLibrary.pdb
+C:\Users\Ignacio\Desktop\ExamenWeb\PreguntasLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ignacio\Desktop\ExamenWeb\PreguntasLibrary\obj\Debug\PreguntasLibrary.dll
+C:\Users\Ignacio\Desktop\ExamenWeb\PreguntasLibrary\obj\Debug\PreguntasLibrary.pdb
+C:\Users\Erick\Dropbox\Proyecto Peritalgos\ExamenWeb\PreguntasLibrary\bin\Debug\PreguntasLibrary.dll
+C:\Users\Erick\Dropbox\Proyecto Peritalgos\ExamenWeb\PreguntasLibrary\bin\Debug\PreguntasLibrary.pdb
+C:\Users\Erick\Dropbox\Proyecto Peritalgos\ExamenWeb\PreguntasLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Erick\Dropbox\Proyecto Peritalgos\ExamenWeb\PreguntasLibrary\obj\Debug\PreguntasLibrary.dll
+C:\Users\Erick\Dropbox\Proyecto Peritalgos\ExamenWeb\PreguntasLibrary\obj\Debug\PreguntasLibrary.pdb
+C:\AppServ\www\Dropbox\Proyecto Peritazgos\ExamenWeb\ExamenWeb\PreguntasLibrary\bin\Debug\PreguntasLibrary.dll
+C:\AppServ\www\Dropbox\Proyecto Peritazgos\ExamenWeb\ExamenWeb\PreguntasLibrary\bin\Debug\PreguntasLibrary.pdb
+C:\AppServ\www\Dropbox\Proyecto Peritazgos\ExamenWeb\ExamenWeb\PreguntasLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\AppServ\www\Dropbox\Proyecto Peritazgos\ExamenWeb\ExamenWeb\PreguntasLibrary\obj\Debug\PreguntasLibrary.dll
+C:\AppServ\www\Dropbox\Proyecto Peritazgos\ExamenWeb\ExamenWeb\PreguntasLibrary\obj\Debug\PreguntasLibrary.pdb
+C:\Users\Erick\Dropbox\Proyecto Peritalgos\ExamenWeb\ExamenWeb\PreguntasLibrary\bin\Debug\PreguntasLibrary.dll
+C:\Users\Erick\Dropbox\Proyecto Peritalgos\ExamenWeb\ExamenWeb\PreguntasLibrary\bin\Debug\PreguntasLibrary.pdb
+C:\Users\Erick\Dropbox\Proyecto Peritalgos\ExamenWeb\ExamenWeb\PreguntasLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Erick\Dropbox\Proyecto Peritalgos\ExamenWeb\ExamenWeb\PreguntasLibrary\obj\Debug\PreguntasLibrary.dll
+C:\Users\Erick\Dropbox\Proyecto Peritalgos\ExamenWeb\ExamenWeb\PreguntasLibrary\obj\Debug\PreguntasLibrary.pdb
