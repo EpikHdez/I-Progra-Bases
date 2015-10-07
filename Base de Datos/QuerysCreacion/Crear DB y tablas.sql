@@ -8,14 +8,14 @@ CREATE TABLE Campeonatos(
 ID INT IDENTITY(1, 1) NOT NULL,
 Nombre VARCHAR(100),
 FechaInicio DATE,
-FechaFin DATE
+FechaFin DATE,
+Activo BIT DEFAULT 1,
 PRIMARY KEY(ID)
 );
 GO
 
 CREATE TABLE Carreras(
 ID INT IDENTITY(1, 1) NOT NULL,
-Nombre VARCHAR(100),
 Descripcion VARCHAR(200),
 LugarPartida VARCHAR(100),
 LugarLlegada VARCHAR(100),
@@ -24,6 +24,7 @@ Fecha DATE,
 Hora TIME,
 Costo INT,
 FKCampeonato INT,
+Activo BIT DEFAULT 1,
 PRIMARY KEY(ID),
 FOREIGN KEY(FKCampeonato) REFERENCES Campeonatos(ID)
 );
@@ -37,7 +38,7 @@ Alias VARCHAR(50),
 Email VARCHAR(100),
 Genero VARCHAR(10),
 FechaNacimiento DATE,
-Activo BIT,
+Activo BIT DEFAULT 1,
 PRIMARY KEY(ID)
 );
 GO
@@ -45,11 +46,12 @@ GO
 CREATE TABLE CampeonatosXCorredores(
 ID INT IDENTITY(1, 1) NOT NULL,
 Numero INT,
-TiempoAcumulado FLOAT,
+TiempoAcumulado TIME,
 PuntosAcumulados INT,
 PuntosSancionAcumulados INT,
 FKCampeonato INT,
 FKCorredor INT,
+Activo BIT DEFAULT 1,
 PRIMARY KEY(ID),
 FOREIGN KEY(FKCampeonato) REFERENCES Campeonatos(ID),
 FOREIGN KEY(FKCorredor) REFERENCES Corredores(ID)
@@ -59,6 +61,7 @@ GO
 CREATE TABLE TipoSancion(
 ID INT IDENTITY(1, 1) NOT NULL,
 Nombre VARCHAR(50),
+Activo BIT DEFAULT 1,
 PRIMARY KEY (ID)
 );
 GO
@@ -68,6 +71,7 @@ ID INT IDENTITY(1, 1) NOT NULL,
 Puntos INT,
 FKCarrera INT,
 FKTipoSancion INT,
+Activo BIT DEFAULT 1,
 PRIMARY KEY (ID),
 FOREIGN KEY (FKCarrera) REFERENCES Carreras (ID),
 FOREIGN KEY (FKTipoSancion) REFERENCES TipoSancion (ID)
@@ -77,6 +81,7 @@ GO
 CREATE TABLE TipoMovimientoSancion(
 ID INT IDENTITY(1, 1)NOT NULL,
 Nombre VARCHAR(50),
+Activo BIT DEFAULT 1,
 PRIMARY KEY(ID)
 );
 GO
@@ -90,6 +95,7 @@ PostDate DATE,
 FKCampeonatoXCorredor INT,
 FKSancion INT,
 FKTipoMovimientoSancion INT,
+Activo BIT DEFAULT 1,
 PRIMARY KEY(ID),
 FOREIGN KEY (FKCampeonatoXCorredor) REFERENCES CampeonatosXCorredores(ID),
 FOREIGN KEY (FKSancion) REFERENCES Sanciones (ID),
@@ -100,6 +106,7 @@ GO
 CREATE TABLE TipoMovimientoPuntos(
 ID INT IDENTITY(1, 1) NOT NULL,
 Nombre VARCHAR(50),
+Activo BIT DEFAULT 1,
 PRIMARY KEY(ID)
 );
 GO
@@ -110,6 +117,7 @@ Posicion INT,
 Tiempo TIME,
 FKCarrera INT,
 FKCorredor INT,
+Activo BIT DEFAULT 1,
 PRIMARY KEY (ID),
 FOREIGN KEY (FKCarrera) REFERENCES Carreras(ID),
 FOREIGN KEY (FKCorredor) REFERENCES Corredores(ID)
@@ -125,6 +133,7 @@ PostDate DATE,
 FKPosicion INT,
 FKTipoMovimientoPuntos INT,
 FKCampeonatoXCorredor INT,
+Activo BIT DEFAULT 1,
 PRIMARY KEY (ID),
 FOREIGN KEY (FKPosicion) REFERENCES Posiciones(ID),
 FOREIGN KEY (FKTipoMovimientoPuntos) REFERENCES TipoMovimientoPuntos(ID),

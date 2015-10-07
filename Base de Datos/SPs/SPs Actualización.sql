@@ -31,7 +31,12 @@ CREATE PROCEDURE CASP_EditarCarrera
 	@pID INT,
 	@pNombre VARCHAR(50),
 	@pDescripcion VARCHAR(200),
-	@pFechaHora DATETIME
+	@pLugarPartida VARCHAR(100),
+	@pLugarLlegada VARCHAR(100),
+	@pRecorrido FLOAT,
+	@pFecha DATE,
+	@pHora TIME,
+	@pCosto INT
 AS
 BEGIN
 	BEGIN TRY
@@ -40,7 +45,12 @@ BEGIN
 			UPDATE dbo.Carreras
 			SET Nombre = @pNombre,
 			Descripcion = @pDescripcion,
-			FechaHora = @pFechaHora
+			LugarPartida = @pLugarPartida,
+			LugarLlegada = @pLugarLlegada,
+			Recorrido = @pRecorrido,
+			Fecha = @pFecha
+			Hora = @pHora,
+			Costo = @pCosto
 			WHERE ID = @pID;
 		COMMIT TRANSACTION;
 	END TRY

@@ -7,13 +7,48 @@ CREATE PROCEDURE CASP_BorrarCampeonato
 AS
 BEGIN
 	BEGIN TRY
+		DECLARE @TCarreras TABLE (ID INT IDENTITY(1, 1), IDCarrera INT);
+		DECLARE @TSanciones TABLE (ID INT IDENTITY(1, 1), IDSancion INT);
+		DECLARE @TPosicion TABLE (ID INT IDENTITY(1, 1), IDPosicion INT);
+		
+		INSERT INTO @TCarreras (IDCarrera)
+		SELECT CA.ID FROM dbo.Carreras CA
+		WHERE CA.FKCampeonato = @pIDCampeonato;
+
+		INSERT INTO @TSanciones (IDSancion)
+		SELECT SA.ID FROM dbo.Sanciones SA
+		INNER JOIN @TCarreras CA ON SA.FKCarrera = CA.IDCarrera;
+
+		INSERT INTO @TPosicion (IDPosicion)
+		SELECT PO.ID FROM dbo.Posiciones PO
+		INNER JOIN @TCarreras CA ON PO.FKCarrera = CA.IDCarrera;
+
 		SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED;
 		BEGIN TRANSACTION
-			DELETE FROM dbo.Carreras
+			UPDATE dbo.Campeonatos
+			SET Activo = 0
+			WHERE ID = @pIDCampeonato;
+
+			UPDATE dbo.Carreras
+			SET Activo = 0
 			WHERE FKCampeonato = @pIDCampeonato;
 
-			DELETE FROM dbo.Campeonatos
-			WHERE ID = @pIDCampeonato;
+			UPDATE dbo.Sanciones
+			SET Activo = 0 FROM dbo.Sanciones SA
+			INNER JOIN @TCarreras CA ON SA.FKCarrera = CA.IDCarrera;
+
+			UPDATE dbo.Posiciones
+			SET Activo = 0 FROM dbo.Posiciones PO
+			INNER JOIN @TCarreras CA ON PO.FKCarrera = CA.IDCarrera;
+
+			UPDATE dbo.MovimientosPorSancion
+			SET Activo = 0 FROM  dbo.MovimientosPorSancion MPS
+			INNER JOIN @TSanciones SA ON MPS.FKSancion = SA.IDSancion;
+
+			UPDATE dbo.MovimientosPuntos
+			SET Activo = 0 FROM dbo.MovimientosPuntos MP
+			INNER JOIN @TPosicion PO ON MP.FKPosicion = PO.IDPosicion;
+
 		COMMIT TRANSACTION;
 
 		RETURN 1;

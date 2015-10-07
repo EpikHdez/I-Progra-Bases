@@ -37,17 +37,11 @@ CREATE PROCEDURE CASP_InsertarCarrera
 AS
 BEGIN
 	BEGIN TRY
-		DECLARE @pNombre VARCHAR(50), @siguiente INT;
-		 
-		SELECT @siguiente = MAX(ID) FROM dbo.Carreras WHERE FKCampeonato = @pCampeonato;
-		SET @siguiente = @siguiente + 1;
-		SET @pNombre = 'Etapa ' + @siguiente;
-
 		SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED;
 		BEGIN TRANSACTION
-			INSERT INTO dbo.Carreras (Nombre, Descripcion, LugarPartida, LugarLlegada,
+			INSERT INTO dbo.Carreras (Descripcion, LugarPartida, LugarLlegada,
 								Recorrido, Fecha, Hora, Costo, FKCampeonato)
-			VALUES (@pNombre, @pDescripcion, @pLugarPartida, @pLugarLlegada, @pRecorrido,
+			VALUES (@pDescripcion, @pLugarPartida, @pLugarLlegada, @pRecorrido,
 					 @pFecha, @pHora, @pCosto, @pCampeonato);
 		COMMIT TRANSACTION;
 
@@ -86,7 +80,7 @@ BEGIN
 
 			INSERT INTO dbo.CampeonatosXCorredores (Numero, TiempoAcumulado, PuntosAcumulados, 
 											PuntosSancionAcumulados, FKCampeonato, FKCorredor)
-			VALUES (@IDCorredor, 0.0, 0, 0, @IDCampeonato, @IDCorredor);
+			VALUES (@IDCorredor, '00:00:00', 0, 0, @IDCampeonato, @IDCorredor);
 		COMMIT TRANSACTION;
 
 		RETURN @IDCorredor;
@@ -110,7 +104,7 @@ CREATE PROCEDURE CASP_InsertarPosicion
 AS
 BEGIN
 	BEGIN TRY
-		DECLARE @IDPosicion INT, @puntos INT;
+		DECLARE @IDPosicion INT, @puntos INT, @nuevoTiempo TIME;
 		DECLARE @IDCampeonato INT, @IDCampeonatoXCorredor INT;
 
 		SELECT @IDCampeonato = CA.FKCampeonato
@@ -121,7 +115,14 @@ BEGIN
 		FROM dbo.CampeonatosXCorredores CC
 		WHERE CC.FKCorredor = @pCorredor AND CC.FKCampeonato = @IDCampeonato;
 
-		SET @puntos = ABS(@pPosicion - 21);
+		SELECT @nuevoTiempo = DATEADD(ms, SUM(DATEDIFF(ms, '00:00:00.000', CC.TiempoAcumulado)), '00:00:00.000') 
+		FROM CampeonatosXCorredoreS CC
+		WHERE CC.ID = @IDCampeonatoXCorredor;
+
+		IF @pPosicion < 20
+			SET @puntos = ABS(@pPosicion - 21);
+		ELSE
+			SET @puntos = 0;
 
 		SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED;
 		BEGIN TRANSACTION
@@ -136,7 +137,7 @@ BEGIN
 					1, @IDCampeonatoXCorredor);
 
 			UPDATE CampeonatosXCorredores
-			SET TiempoAcumulado = TiempoAcumulado,
+			SET TiempoAcumulado = @nuevoTiempo,
 				PuntosAcumulados = (PuntosAcumulados + @puntos);
 		COMMIT TRANSACTION;
 
