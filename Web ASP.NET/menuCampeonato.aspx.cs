@@ -11,4 +11,10 @@ public partial class menuCampeonato : System.Web.UI.Page
     {
 
     }
+
+    protected void Button1_Click(object sender, EventArgs e)
+    {
+        int id =Int32.Parse(GridView1.SelectedDataKey.Value.ToString());
+        Label1.Text = id.ToString();
+    }
 }
