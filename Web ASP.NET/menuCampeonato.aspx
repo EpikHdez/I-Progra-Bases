@@ -29,7 +29,7 @@
             <SortedDescendingCellStyle BackColor="#E5E5E5" />
             <SortedDescendingHeaderStyle BackColor="#275353" />
         </asp:GridView>
-        <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:CampeonatosDBConnectionString2 %>" DeleteCommand="DELETE FROM [Campeonatos] WHERE [ID] = @ID" InsertCommand="INSERT INTO [Campeonatos] ([Nombre], [FechaInicio], [FechaFin]) VALUES (@Nombre, @FechaInicio, @FechaFin)" ProviderName="<%$ ConnectionStrings:CampeonatosDBConnectionString2.ProviderName %>" SelectCommand="CASP_ObtenerCampeonatos" UpdateCommand="CASP_EditarCampeonato" UpdateCommandType="StoredProcedure" SelectCommandType="StoredProcedure">
+        <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:CampeonatosDBConnectionString1 %>" DeleteCommand="DELETE FROM [Campeonatos] WHERE [ID] = @ID" InsertCommand="INSERT INTO [Campeonatos] ([Nombre], [FechaInicio], [FechaFin]) VALUES (@Nombre, @FechaInicio, @FechaFin)" SelectCommand="CASP_ObtenerCampeonatos" UpdateCommand="CASP_EditarCampeonato" UpdateCommandType="StoredProcedure" SelectCommandType="StoredProcedure">
             <DeleteParameters>
                 <asp:Parameter Name="ID" Type="Int32" />
             </DeleteParameters>
@@ -47,8 +47,16 @@
             </UpdateParameters>
         </asp:SqlDataSource>
     
-        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Button" />
-        <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+        <p>
+
+
+
+        </p>
+        <asp:Label ID="Label1" runat="server" Text="No hay ningún elemento seleccionado" Visible="false"></asp:Label>
+        <br />
+        <asp:Button ID="btnMenuCarrerasCampeonato" runat="server" OnClick="btnMenuCarrerasCampeonato_Click" Text="Carreras del campeonato" />
+        <asp:Button ID="btnMenuCorredoresCampeonato" runat="server" Text="Corredores del Campeonato" OnClick="btnMenuCorredoresCampeonato_Click"/>
+        
     
     </div>
     </form>

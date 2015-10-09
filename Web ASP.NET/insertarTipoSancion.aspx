@@ -12,8 +12,7 @@
     <div>
 
         <h3>Nombre: <asp:TextBox id="txtNombreTipoSancion" runat="server"></asp:TextBox></h3>
-        <asp:button id="btnCrearTipoSancion" runat="server" text="Crear Sancion" OnClick="botonCrearTipoSancion_Click"/>
-        <asp:Label ID="lblSancion" runat="server">Hola</asp:Label>
+        <asp:LinkButton ID="btnInsertarTipoSancion" runat="server" Text="Insertar Tipo Sanción"></asp:LinkButton>
     
     </div>
     </form>

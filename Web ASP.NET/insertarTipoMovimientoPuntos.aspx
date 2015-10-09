@@ -11,8 +11,8 @@
     <form id="form1" runat="server">
     <div>
 
-        <h3>Nombre: <textarea id="textoNombreTipoMovimientoPuntos" name="textoNombreTipoMovimientoPuntos" rows="1" cols="50"></textarea></h3>
-        <button id="botonCrearTipoMovimientoPuntos" name="botonCrearTipoMovimientoPuntos" onclick="">Crear nuevo tipo de movimiento de puntos</button>
+        <h3>Nombre: <asp:TextBox ID="txtNombre" runat="server"></asp:TextBox> </h3>
+        <<asp:LinkButton ID="btnInsertarMovimientoPuntos" runat="server" Text="Insertar Movimiento Puntos" OnClick="btnInsertarMovimientoPuntos_Click"></asp:LinkButton>
     
     </div>
     </form>

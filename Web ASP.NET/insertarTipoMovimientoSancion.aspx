@@ -11,7 +11,8 @@
     <form id="form1" runat="server">
     <div>
 
-        <h3>Nombre: <textbox id="textoNombreTipoMovimientoSancion" name="textoNombreTipoMovimientoSancion" rows="1" cols="50"></textbox></h3>
+        <h3>Nombre: <asp:TextBox ID="txtNombre" runat="server"></asp:TextBox>
+        <asp:LinkButton ID="btnInsertarTipoMovimientoSancion" runat="server" Text="Insertar Tipo Movimiento" OnClick="btnInsertarTipoMovimientoSancion_Click"></asp:LinkButton>
     
     </div>
     </form>

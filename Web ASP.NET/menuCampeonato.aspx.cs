@@ -12,9 +12,28 @@ public partial class menuCampeonato : System.Web.UI.Page
 
     }
 
-    protected void Button1_Click(object sender, EventArgs e)
+    protected void btnMenuCarrerasCampeonato_Click(object sender, EventArgs e)
     {
-        int id =Int32.Parse(GridView1.SelectedDataKey.Value.ToString());
-        Label1.Text = id.ToString();
+        if(GridView1.SelectedDataKey.Value != null)
+        {
+            Session["campeonatoActual"] = Int32.Parse(GridView1.SelectedDataKey.Value.ToString());
+
+            Response.Redirect("menuCarrera.aspx");
+        }
+
+        else
+        {
+            Label1.Visible = true;
+        }      
+    }
+
+    protected void btnMenuCorredoresCampeonato_Click(object sender, EventArgs e)
+    {
+        if(GridView1.SelectedDataKey.Value != null)
+        {
+            Session["campeonatoActual"] = Int32.Parse(GridView1.SelectedDataKey.Value.ToString());
+
+            Response.Redirect("menuCorredor.aspx");
+        }
     }
 }

@@ -10,6 +10,11 @@
 <body>
     <form id="form1" runat="server">
     <div>
+
+        <h5>Por favor escoja el menú al que desea ingresar: </h5>
+        <asp:LinkButton ID="btnMenuCampeonato" runat="server" Text="Menú de campeonatos" OnClick="btnMenuCampeonato_Click"></asp:LinkButton>
+        <br />
+        <asp:LinkButton ID="btnMenuCatalogos" runat="server" Text="Menú de catálogos" OnClick="btnMenuCatalogos_Click"></asp:LinkButton>
     
     </div>
     </form>

@@ -11,9 +11,17 @@
     <form id="form1" runat="server">
     <div>
 
-        <h5>Nombre: <textbox></textbox></h5>
-        <h5>Descripción: <textabox></textabox></h5>
-        <h5>Fecha: <textbox></textbox></h5>
+        <h5>Descripción: <asp:textbox ID="txtDescripcionAgregarCarrera" runat="server"></asp:textbox></h5>
+        <h5>Lugar Partida: <asp:TextBox ID="txtLugarPartidaAgregarCarrera" runat="server"></asp:TextBox></h5>
+        <h5>Lugar Llegada: <asp:TextBox ID="txtlugarLlegadaAgregarCarrera" runat="server"></asp:TextBox></h5>
+        <h5>Recorrido: <asp:TextBox ID="txtRecorridoAgregarCarrera" runat="server"></asp:TextBox></h5>
+        <h5>Fecha: <asp:textbox ID="txtFechaAgregarCarrera" runat="server"></asp:textbox></h5>
+        <h5>Hora: <asp:TextBox ID="txtHoraAgregarCarrera" runat="server"></asp:TextBox></h5>
+        <h5>Costo: <asp:TextBox ID="txtCostoAgregarCarrera" runat="server"></asp:TextBox></h5>
+        
+
+        <asp:LinkButton ID="btnAgregarCarreraCampeonato" runat="server" Text="Agregar Carrera" OnClick="btnAgregarCarreraCampeonato_Click"></asp:LinkButton>
+        <asp:Label ID="lbl_error" runat="server" Text="La inserción no fue satisfactoria" Visible="false"></asp:Label>
     
     </div>
     </form>

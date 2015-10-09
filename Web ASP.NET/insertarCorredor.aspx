@@ -11,16 +11,14 @@
     <form id="form1" runat="server">
     <div>
 
-        <h5>Identificación: <textarea id="identificacion"></textarea> </h5>
-        <h5>Nombre: <textarea id="nombre"></textarea> </h5>
-        <h5>Alias: <textarea id="alias"></textarea> </h5>
-        <h5>Email: <textarea id="email"></textarea></h5>
-        <h5>Genero: <select>
-            <option value="Masculino">Masculino</option>
-            <option value="Femenino">Femenino</option>
-            </select>
-        </h5>
-        <button id="botonRegistro">Registrarse</button>
+        <h5>Identificación: <asp:TextBox ID="txtIdentificacionInsertarCorredor" runat="server"></asp:TextBox> </h5>
+        <h5>Nombre: <asp:TextBox ID="txtNombreInsertarCorredor" runat="server"></asp:TextBox> </h5>
+        <h5>Alias: <asp:TextBox ID="txtAliasInsertarCorredor" runat="server"></asp:TextBox> </h5>
+        <h5>Email: <asp:TextBox ID="txtEmailInsertarCorredor" runat="server"></asp:TextBox></h5
+        <h5>Contrasena: <asp:TextBox ID="txtContrasenaInsertarCorredor" runat="server"></asp:TextBox></h5>
+        <h5>Genero: <asp:TextBox ID="txtGeneroInsertarCorredor" runat="server"></asp:TextBox></h5>
+        <h5>Fecha de nacimiento: <asp:TextBox ID="txtFechaInsertarCorredor" runat="server"></asp:TextBox></h5>
+        <asp:LinkButton ID="btnInsertarCorredor" runat="server" Text="Insertar Corredor" OnClick="btnInsertarCorredor_Click"></asp:LinkButton>
         
     </div>
     </form>
